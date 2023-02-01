@@ -19,6 +19,10 @@ A Deep Learning based Bengali website for detecting tomato leaf diseases. The we
 - Flask
 - OpenCV
 
+# Download Model
+
+Model: https://drive.google.com/file/d/1l61TXAl1etrt_UifxXgX5xV0qeOmhA7U/view?usp=sharing
+
 # Run the app
 1. Clone this repository to your local machine.
 *git clone https://github.com/setu-glitch/TomatoLeafDiseaseDetection.git*
